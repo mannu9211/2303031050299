@@ -11,6 +11,7 @@ app.use(express.json());
 
 app.use(requestLogger);
 
+// Register the routes
 app.use("/notifications", notificationRoutes);
 
 module.exports = app;

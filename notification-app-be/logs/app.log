@@ -7,3 +7,17 @@
 [2026-06-30T09:16:33.115Z] [INFO] GET /notifications from ::1
 [2026-06-30T09:16:48.378Z] [INFO] GET /notifications/1 from ::1
 [2026-06-30T09:17:00.486Z] [INFO] PATCH /notifications/1/read from ::1
+[2026-06-30T09:29:09.628Z] [INFO] Server started on port 3000
+[2026-06-30T09:30:05.405Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:30:28.638Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:33:31.544Z] [INFO] Server started on port 3000
+[2026-06-30T09:33:40.609Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:47:00.864Z] [INFO] Server started on port 3000
+[2026-06-30T09:48:56.474Z] [INFO] Server started on port 5000
+[2026-06-30T09:51:45.196Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:51:45.205Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:51:50.446Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:51:50.450Z] [INFO] GET /notifications from ::1
+[2026-06-30T10:00:44.083Z] [INFO] Server started on port 5000
+[2026-06-30T10:00:49.088Z] [INFO] Server started on port 5000
+[2026-06-30T10:01:02.091Z] [INFO] Server started on port 5000
