@@ -3,3 +3,7 @@
 [2026-06-30T09:09:37.563Z] [INFO] Server started on port 3000
 [2026-06-30T09:10:55.137Z] [INFO] Server started on port 3000
 [2026-06-30T09:11:55.139Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:16:30.002Z] [INFO] Server started on port 3000
+[2026-06-30T09:16:33.115Z] [INFO] GET /notifications from ::1
+[2026-06-30T09:16:48.378Z] [INFO] GET /notifications/1 from ::1
+[2026-06-30T09:17:00.486Z] [INFO] PATCH /notifications/1/read from ::1
